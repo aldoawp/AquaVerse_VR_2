@@ -1,0 +1,13 @@
+# Blender 3.6.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material_0
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ba9ae209f7c9_ATLANTIC_MACKEREL_f_texture_kd.jpg
+map_Ns ba9ae209f7c9_ATLANTIC_MACKEREL_f_roughness.jpg
+map_refl ba9ae209f7c9_ATLANTIC_MACKEREL_f_metallic.jpg

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly Killer Whale (Orca)
+* source:	https://sketchfab.com/3d-models/low-poly-killer-whale-orca-2aaa71bc217e4db69cc7b2029bc1c409
+* author:	milaggp (https://sketchfab.com/milaggp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly Killer Whale (Orca)" (https://sketchfab.com/3d-models/low-poly-killer-whale-orca-2aaa71bc217e4db69cc7b2029bc1c409) by milaggp (https://sketchfab.com/milaggp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plasticbottle
+* source:	https://sketchfab.com/3d-models/plasticbottle-c80728368cbf43c3a965f2c36770557b
+* author:	CasperMatthai (https://sketchfab.com/CasperMatthai)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plasticbottle" (https://sketchfab.com/3d-models/plasticbottle-c80728368cbf43c3a965f2c36770557b) by CasperMatthai (https://sketchfab.com/CasperMatthai) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

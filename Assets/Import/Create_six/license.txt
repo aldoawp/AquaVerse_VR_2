@@ -1,0 +1,11 @@
+Model Information:
+* title:	Create_six
+* source:	https://sketchfab.com/3d-models/create-six-7026d83b253d4f4b8b2493d23ee2d613
+* author:	nikhilmali9910 (https://sketchfab.com/nikhilmali9910)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Create_six" (https://sketchfab.com/3d-models/create-six-7026d83b253d4f4b8b2493d23ee2d613) by nikhilmali9910 (https://sketchfab.com/nikhilmali9910) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
