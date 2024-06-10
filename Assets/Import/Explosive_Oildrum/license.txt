@@ -1,0 +1,11 @@
+Model Information:
+* title:	Explosive Oildrum
+* source:	https://sketchfab.com/3d-models/explosive-oildrum-8b02c5e46ef24c968ceb6d2de1c4952d
+* author:	jakuza (https://sketchfab.com/jakuza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Explosive Oildrum" (https://sketchfab.com/3d-models/explosive-oildrum-8b02c5e46ef24c968ceb6d2de1c4952d) by jakuza (https://sketchfab.com/jakuza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

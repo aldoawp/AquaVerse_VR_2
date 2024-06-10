@@ -1,0 +1,11 @@
+Model Information:
+* title:	La Grande Hermine | CANADA
+* source:	https://sketchfab.com/3d-models/la-grande-hermine-canada-7b1cc6900c264981b4c0ec3901879212
+* author:	Arqueomodel3D (https://sketchfab.com/juanbrualla)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "La Grande Hermine | CANADA" (https://sketchfab.com/3d-models/la-grande-hermine-canada-7b1cc6900c264981b4c0ec3901879212) by Arqueomodel3D (https://sketchfab.com/juanbrualla) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

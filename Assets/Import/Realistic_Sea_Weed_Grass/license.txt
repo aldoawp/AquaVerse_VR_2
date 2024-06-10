@@ -1,0 +1,11 @@
+Model Information:
+* title:	Realistic Sea Weed Grass
+* source:	https://sketchfab.com/3d-models/realistic-sea-weed-grass-57fd93c8b0f24821abf836b2fab1644c
+* author:	Gatyh Interactive (https://sketchfab.com/lucas.antongomez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Realistic Sea Weed Grass" (https://sketchfab.com/3d-models/realistic-sea-weed-grass-57fd93c8b0f24821abf836b2fab1644c) by Gatyh Interactive (https://sketchfab.com/lucas.antongomez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
